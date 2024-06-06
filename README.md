@@ -1,3 +1,4 @@
+This repo is forked from https://github.com/myscience/mamba I just fork it to can install it. (I'm not sure of this sentence)
 # Mamba Model in Easy Pytorch 🐍
 
 This repo contains the _unofficial_ PyTorch implementation of the `Mamba` model as introduced in [Gu & Dao (2023)](https://arxiv.org/abs/2312.00752). One can find the official (CUDA) implementation [here](https://github.com/state-spaces/mamba) or the nice [alxndrTL](https://github.com/alxndrTL/mamba.py) alternative Python implementation. This repo is developed mainly for didactic purposes to spell out the details of a `State Space Models`.
